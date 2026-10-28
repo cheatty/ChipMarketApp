@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+supabase.properties
+*.iml
+.kotlin/
+*.docx
+*.pptx
+.DS_Store
+supabase/
